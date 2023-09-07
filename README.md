@@ -2,7 +2,7 @@
 To generate a story based on the given synopsis
 
 # Models
-We process the input text, by using a Large Language Model (Llama 2) trained with custom dataset
+We process the input text, by using a Large Language Model (**Llama 2**) trained with custom dataset
 
 # Dataset Overview
 * The dataset has 100 entries
